@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "pwa-chrome",
+      "request": "launch",
+      "name": "Launch portfolio in Chrome",
+      "url": "http://localhost:3000/Sama-Ayman-Developer-portfolio/",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "Start Vite dev server"
+    }
+  ]
+}
