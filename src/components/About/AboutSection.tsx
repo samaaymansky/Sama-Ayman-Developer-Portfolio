@@ -35,7 +35,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenContact }) => 
             <div className="text-base sm:text-lg text-slate-300 leading-relaxed font-sans space-y-4">
               <p>
                 I am the founder of <strong className="text-white">LIMITS Studios</strong>.
-                My passion is building horror games that give players genuine chills, whether that's the quiet unease of being alone in a dark house or the panic of a ticking timer in a locked bunker.
+                My passion is building horror games that give players genuine chills, whether that's the quiet unease of being alone in a dark house or the panic of a ticking timer in a replicated mind.
               </p>
               <p>
                 I started on Roblox, where I created <strong className="text-white">SOLITUDE</strong> and <strong className="text-white">NULL</strong>. Both are psychological horror games focusing on atmosphere, subtle changes in familiar environments, and sound design rather than jump scares.
@@ -122,7 +122,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenContact }) => 
                     Discord
                   </a>
                   <a
-                    href="https://youtube.com"
+                    href="https://www.youtube.com/@LIMITSStudios"
                     target="_blank"
                     rel="noreferrer"
                     onClick={() => sounds.playClick(500)}

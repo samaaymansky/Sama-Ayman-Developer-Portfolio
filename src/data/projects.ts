@@ -47,7 +47,7 @@ export const GAMES: Record<string, GameProject> = {
       { label: 'Subgenre', value: 'Psychological Horror' },
       { label: 'Release', value: 'Available Now' },
       { label: 'Game Link', value: 'Play on Roblox', link: 'https://roblox.com' },
-      { label: 'Trailer', value: 'Watch Trailer', link: 'https://youtube.com' }
+      { label: 'Trailer', value: 'Watch Trailer', link: 'https://youtu.be/B_eGfs9cOKM' }
     ],
     overview: [
       'Four nights. One house. Every routine feels familiar, yet nothing stays normal. Solitude puts you alone inside a quiet suburban home where the tension builds through sound, shadows, and subtle anomalies rather than jumpscares.',
@@ -114,7 +114,7 @@ export const GAMES: Record<string, GameProject> = {
       { label: 'Subgenre', value: 'Psychological Horror' },
       { label: 'Release', value: 'Available Now' },
       { label: 'Game Link', value: 'Play on Roblox', link: 'https://www.roblox.com/games/103669032372020/NULL' },
-      { label: 'Trailer', value: 'Watch on YouTube', link: 'https://youtube.com' }
+      { label: 'Trailer', value: 'Watch on YouTube', link: 'https://youtu.be/nDDCP3MNKJ8' }
     ],
     overview: [
       "NULL is a psychological horror game centered on manipulation, control, and the illusion of free will. Through environmental storytelling, atmospheric sound design, and carefully paced exploration, the game gradually challenges the player's perception of safety and autonomy.",
@@ -272,7 +272,7 @@ export const SKILLS: SkillItem[] = [
   {
     id: 'level-design',
     name: 'Level & Environmental Design',
-    description: 'Designing natural layouts — from domestic homes to bunker corridors — with clear sightlines and memorable framing.',
+    description: 'Designing natural layouts, from domestic homes to bunker corridors, with clear sightlines and memorable framing.',
     iconName: 'Box'
   },
   {

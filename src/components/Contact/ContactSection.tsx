@@ -97,7 +97,7 @@ export const ContactSection: React.FC<ContactSectionProps> = () => {
               </a>
 
               <a
-                href="https://youtube.com"
+                href="https://www.youtube.com/@LIMITSStudios"
                 target="_blank"
                 rel="noreferrer"
                 onClick={() => sounds.playClick(500)}
